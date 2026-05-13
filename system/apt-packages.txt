@@ -1,0 +1,9 @@
+git
+wget
+curl
+tmux
+repgrep
+fd-find
+zoxide
+fzf
+zsh
