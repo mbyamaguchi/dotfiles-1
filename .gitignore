@@ -41,4 +41,12 @@
 # README
 !config/README.md
 
+# local
+!local/
 
+# local/share
+!local/share
+
+#local/share/fonts
+!local/share/fonts/
+!local/share/fonts/*.ttf
