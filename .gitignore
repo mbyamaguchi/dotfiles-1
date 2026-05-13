@@ -1,0 +1,41 @@
+# all files
+*
+
+# .gitignore
+!.gitignore
+
+# zsh
+!config/zsh/
+!config/zsh/.zshenv
+!config/zsh/.zshrc
+
+# sheldon
+!config/sheldon/
+!config/sheldon/plugins.toml
+
+# alacritty
+!config/alacritty/
+!config/alacritty/alacritty.toml
+
+# wezterm
+!config/wezterm/
+!config/wezterm/wezterm.lua
+
+# nvim
+!config/nvim/
+!config/nvim/init.lua
+!config/nvim/lsp/
+!config/nvim/lsp/*
+!config/nvim/lua/
+!config/nvim/lua/*
+!config/nvim/lua/config/
+!config/nvim/lua/config/*
+
+# tmux
+!config/tmux/
+!config/tmux/tmux.conf
+
+# README
+!config/README.md
+
+
